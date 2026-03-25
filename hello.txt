@@ -1,1 +1,1 @@
-Hello Nassy , this is my first Git project
+Hello Nassy, this is my first Git project
